@@ -1,0 +1,14 @@
+*.exe
+
+#Vs 2012
+debug/
+release/
+GeneratedFiles/
+Win32/
+*.user
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.ncb
